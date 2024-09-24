@@ -1,0 +1,12 @@
+#Promedio de 3 numeros
+print(" ")
+print("Ruvalcaba Valverde Miguel Angel")
+print("-----------Ingresar Numeros-----------")
+N1 = float(input("ingresa numero 1: "))
+N2 = float(input("ingresa numero 2: "))
+N3 = float(input("ingresa numero 3: "))
+R = (N1+N2+N3)/3
+print("El promedio de estos numeros es: ",R)
+print("--------------------------------------")
+print("Resultado: se bio el promedio de manera efectiba")
+print(" ")
